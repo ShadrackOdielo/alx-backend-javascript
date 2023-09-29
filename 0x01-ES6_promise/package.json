@@ -1,0 +1,11 @@
+{
+  "name": "0x01-es6_promise",
+  "version": "1.0.0",
+  "description": "my project for es6 promises",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "shadrack odielo",
+  "license": "ISC"
+}
